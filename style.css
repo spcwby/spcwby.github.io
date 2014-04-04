@@ -1,6 +1,6 @@
 body {
 	color: #aaa;
-	background-color: #333;
+	background: #333 url('fade.png') top repeat-x;
 	font-family: Helvetica;
 	text-align: center;
 }
