@@ -1,9 +1,9 @@
-@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300);
 
 body {
 	color: #aaa;
 	background: #333 url('fade.png') top repeat-x;
-	font-family: 'Open Sans Condensed', Helvetica;
+	font-family: 'Open Sans', gHelvetica;
 	text-align: center;
 
 }
